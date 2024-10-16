@@ -1,0 +1,9 @@
+{
+	"name": "itthecomdatafactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f149a8fc-062a-4f67-a4c1-f7717e22197a",
+		"tenantId": "21f9df5c-33c2-4f79-9e9a-9a97746c4728"
+	}
+}
